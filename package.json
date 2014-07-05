@@ -1,6 +1,6 @@
 {
   "name": "angular-module-mocks",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "description": "Mocks AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-mocks.js",
   "scripts": {
